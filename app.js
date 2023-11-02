@@ -9,4 +9,5 @@ app.use(cors());
 
 app.use('/api/users', userRoutes);
 
+
 module.exports = app;
